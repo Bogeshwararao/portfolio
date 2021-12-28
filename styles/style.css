@@ -176,6 +176,22 @@ h3{
     flex-direction: column;
     justify-content: space-between;
 }
+.links:hover{
+    transform: scale(0.5);
+}
+.link-a:hover{
+    transform: scale(0.5);
+}
+.link-b:hover{
+    transform: scale(0.5);
+}
+.link-c:hover{
+    transform: scale(0.5);
+}
+.link-d:hover{
+    transform: scale(0.5);
+}
+
 
 
    
